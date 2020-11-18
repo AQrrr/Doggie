@@ -18,3 +18,6 @@
 - CSS
 - Bootstrap
 - Fontawesome
+
+![Screenshot1](./images/p1.JPG)
+![Screenshot2](./images/fullsize.png)
